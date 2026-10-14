@@ -201,7 +201,7 @@ export const Header: React.FC<HeaderProps> = ({
             soundEffects.playTactileClick();
             onOpenNewTaskModal();
           }}
-          className="flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-semibold text-white bg-red-600 hover:bg-red-500 active:bg-red-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950 rounded-lg shadow-sm shadow-red-600/30 transition-colors whitespace-nowrap shrink-0"
+          className="flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-semibold text-white bg-pink-600 hover:bg-pink-500 active:bg-pink-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-pink-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950 rounded-lg shadow-sm shadow-pink-600/30 transition-colors whitespace-nowrap shrink-0"
         >
           <Plus className="w-4 h-4" />
           <span>New Task</span>
