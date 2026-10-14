@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "TaskPulse To-Do & Reminders",
+  "short_name": "TaskPulse",
+  "description": "A vibrant productivity to-do list with categories, 4-tier priorities, push notification reminders, and switchable List and Kanban views.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

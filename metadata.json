@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse - Prioritized To-Do & Reminders",
+  "description": "A vibrant productivity to-do list with categories, 4-tier priorities, push notification reminders, and switchable List and Kanban views.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
